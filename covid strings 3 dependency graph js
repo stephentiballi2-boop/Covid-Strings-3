@@ -7,7 +7,7 @@ the place where heading and subheading variables go
 heading1=dependency graph
 heading2=graph title
 heading3=dependencies
-heading4=covid Strings Directed Acyclic Graph
+heading4=covid strings directed acyclic graph
 subheading1=vertices
 subheading2=edges
 subheading3=map check
