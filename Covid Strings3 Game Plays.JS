@@ -137,38 +137,38 @@ grid column span 2
 <div class= “calculator”
 <input type=”text” class=”display” id “display”=disabled>
 <div class buttons”>
-<Button Class “Button” On Click=”AppendNumber(‘0’)>0<Button
-<Button Class “Button” On Click=”AppendNumber(‘1’)>1<Button
-<Button Class “Button” On Click=”AppendNumber(‘2’)>2<Button
-<Button Class “Button” On Click=”AppendNumber(‘3’)>3<Button
-<Button Class “Button” On Click=”AppendNumber(‘4)>4<Button
-<Button Class “Button” On Click=”AppendNumber(‘5’)>5<Button
-<Button Class “Button” On Click=”AppendNumber(‘6’)>6<Button
-<Button Class “Button” On Click=”AppendNumber(‘7’)>7<Button
-<Button Class “Button” On Click=”AppendNumber(‘8’)>8<Button
-<Button Class “Button” On Click=”AppendNumber(‘9’)>9<Button
-<Button Class “Button” On Click=”AppendNumber(‘.’)>.<Button
-Button Class Operator On Click =Choose Operation (Addition) Button
-Button Class Operator On Click=Choose Operation (Subtraction) Button
-Button Class Operator On Click =Choose Operation (Multiplication) Button
-Button Class Operator On Click =Choose Operation (Division) Button
-Button Class =”Button Equal On Click Compute ()=</Button>
-Button Class = “Button Clear” On Click =Clear Display Button >C< /Button>
-Div
-Div
-Src= “Calculator.Js”>
-<Script>
-</Body>
-</Html>
-<Subheading.Html>
-Calculator Functionality
-The Operation Organization For Practical Use Of The Covid Strings Calculator
-Let Display=Document Get Element By Id (‘Display)
-Let CurrentOperand=’’
-Let Previous Operand=’’
-Let Operation =Undefined
-Append Number
-If (Number ===’.’& CurrentOperand.Includes(‘.’)Return;
+<button class “button” on click=”appendnumber(‘0’)>0<button
+<button class “button” on click=”appendnumber(‘1’)>1<button
+<button class “button” on click=”appendnumber(‘2’)>2<button
+<button class “button” on click=”appendnumber(‘3’)>3<button
+<button class “button” on click=”appendnumber(‘4)>4<button
+<button class “button” on click=”appendnumber(‘5’)>5<button
+<button class “button” on click=”appendnumber(‘6’)>6<button
+<button class “button” on click=”appendnumber(‘7’)>7<button
+<button class “button” on click=”appendnumber(‘8’)>8<button
+<button class “button” on click=”appendnumber(‘9’)>9<button
+<button class “button” on click=”appendnumber(‘.’)>.<button
+button class operator on click =choose operation (addition) button
+button class operator on click=choose operation (subtraction) button
+button class operator on click =choose operation (multiplication) button
+button class operator on click =choose operation (division) button
+button class =”button equal on click compute ()=</button>
+button class = “button clear” on click=clear display button >c< /button>
+div
+div
+src= “calculator.js”>
+<script>
+</body>
+</html>
+<subheading.html>
+calculator functionality
+the operation organization for practical use of the covid strings calculator
+let display=document get element by id (‘display)
+let currentoperand=’’
+let previous operand=’’
+let operation=undefined
+append number
+if (number ===’.’& currentoperand.includes(‘.’)return;
 currentoperand=currentoperand.tostring()+number.tostring();
 updatedisplay();
 choseoperation(op)
@@ -243,6 +243,476 @@ if user prompt covid strings team thought box ==correct answer
 return answer 
 else:
 check answer
+<sub heading.html>
+black thought box
+thought box for black night riders
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding: 10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007BFF
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id(‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+purple thought box
+thought box for purple brave hearts
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+pink box
+thought box for pink covid disease fighters
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box/<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding: 10px;
+margin-botton:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+turquoise box
+thought box for turquoise waves 
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input) .value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+violet thought box
+thought box for violet relievers
+<doc type.htnl>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display: flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on  button display thought> submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input‘) .value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+teal thought box
+thought box for teal terminators 
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought 
+MARGIN-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display. text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+yellow thought box
+thought box for yellow moxie
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box/<title>
+<style>
+body{
+font family arail sans serif
+display: flex
+justify content:center
+align items:center
+hieght 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type=“text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content= thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+orange thought box
+thought box for orange rna messengers
+<doc type.html>
+<html lang “en”>
+<head>
+ut8
+“viewport” content=width device-width inital scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
 return filename
- 
-
